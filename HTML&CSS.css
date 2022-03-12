@@ -1,0 +1,18 @@
+#C {
+    margin-right: 0%;
+
+    padding: 200px 400px;
+    background-repeat: no-repeat;
+}
+
+.html {
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+}
+
+.css {
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+}
